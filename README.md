@@ -77,8 +77,38 @@ This repository illustrates the fundamental use of the GPIO peripheral in STM32 
 
 ## Project Videos
 
-> [!CAUTION]
-> This tutorial has not yet **started!**
+```plaintext
+📁 STM32 GPIO Peripheral
+└── [aKaReZa 126 - HAL, GPIO]
+        ├─ Concept — GPIO basics in STM32.
+        ├─ Modes — Input, Output, Alternate Function, Analog.
+        ├─ CubeMX — Project creation and MX_GPIO_Init().
+        ├─ Control — HAL_GPIO_WritePin(), HAL_GPIO_TogglePin().
+        ├─ Read — HAL_GPIO_ReadPin() usage.
+        ├─ Timing — HAL_Delay() and troubleshooting.
+        └─ Speed — GPIO speed settings and performance impact.
+```
+
+<table style="border-collapse: collapse;">
+  <tr style="background-color: #f9f9f9;">
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/rTIU0vWZKQs">aKaReZa 126 – STM32, HAL, GPIO</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        Master the fundamentals of GPIO configuration in STM32 using the HAL Library. This episode walks through pin setup in <strong>Input, Output, Alternate Function, and Analog modes</strong>, project creation in STM32CubeMX, and practical use of HAL functions like <code>HAL_GPIO_WritePin()</code>, <code>HAL_GPIO_TogglePin()</code>, and <code>HAL_GPIO_ReadPin()</code>. You’ll also learn about timing with <code>HAL_Delay()</code>, troubleshooting common issues, and understanding <strong>GPIO Speed</strong> for performance optimization—an essential foundation for any STM32 project.
+      </p>
+    </td>
+    <td width="360" valign="top">
+      <a href="https://youtu.be/rTIU0vWZKQs">
+        <img src="https://img.youtube.com/vi/rTIU0vWZKQs/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 126 – STM32, HAL, GPIO Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 # 💻 How to Use Git and GitHub
