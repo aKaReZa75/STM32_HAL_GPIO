@@ -99,7 +99,7 @@ This repository illustrates the fundamental use of the GPIO peripheral in STM32 
 
 <table style="border-collapse: collapse;">
   <tr style="background-color: #f9f9f9;">
-    <td valign="top" style="padding: 0 10px;">
+    <td valign="middle" style="padding: 0 10px;">
       <h3 style="margin: 0;">
         <a href="https://youtu.be/rTIU0vWZKQs">aKaReZa 126 – STM32, HAL, GPIO</a>
       </h3>
