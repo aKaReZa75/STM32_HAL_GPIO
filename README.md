@@ -68,7 +68,15 @@ This repository illustrates the fundamental use of the GPIO peripheral in STM32 
 
 - [API Reference](./API_Reference.md)  
   ---  
-  This section provides an overview of the HAL-based GPIO functions used in the project, including configuration, write/read operations, and toggling. The implementation serves as a minimal yet clear example of GPIO handling in STM32 using HAL.
+  Overview of the HAL GPIO driver, GPIO ports and pins, STM32CubeMX configuration steps, pin definitions, and the initialization functions `HAL_GPIO_Init()` and `HAL_GPIO_DeInit()`.
+
+- [API Reference - Functions](./API_Reference_Functions.md)  
+  ---  
+  Output control (`HAL_GPIO_WritePin()`, `HAL_GPIO_TogglePin()`), input reading (`HAL_GPIO_ReadPin()`), pin protection (`HAL_GPIO_LockPin()`), and a summary table of all functions.
+
+- [API Reference - Notes](./API_Reference_Notes.md)  
+  ---  
+  Complete examples, explanations of output modes, pull resistors, output speed, and alternate function mode, plus a FAQ.
 
 
 - [STM32 Microcontroller Training](https://github.com/aKaReZa75/STM32)  
